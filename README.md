@@ -1,4 +1,5 @@
 # PaperMC Docker
+This version is a fork of phyremaster/papermc based on openjdk:17-slim instead of 16!
 This is a Linux Docker image for the PaperMC Minecraft server.
 
 PaperMC is an optimized Minecraft server with plugin support (Bukkit, Spigot, Sponge, etc.).
